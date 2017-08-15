@@ -1,0 +1,143 @@
+/*Theme Color File*/
+a,
+.theme_color,
+.main-header .header-top .top-links ul li a:hover,
+.main-header .social-icon a:hover,
+.main-menu .navigation > li:hover > a,
+.main-menu .navigation > li.current > a,
+.main-menu .navigation > li.current-menu-item > a,
+.btn-style-three,
+.btn-style-one:hover,
+.services-style-one .inner-box .icon-box,
+.services-style-one .inner-box h3 a:hover,
+.subscribe-section h2 span,
+.social-icon-one li a:hover,
+.news-style-one .inner-box .lower-box h3 a:hover,
+.news-style-one .inner-box .lower-box .read-more,
+.social-icon-two li a:hover,
+.social-icon-three li a:hover,
+.travel-block .inner-box .lower-box h3 a:hover,
+.price-column .inner-box .upper-box .price,
+.gallery-section .outer-box .title-column .view-work .icon,
+.gallery-item .inner-box .overlay-box .plus-icon,
+.main-footer .links-widget .list li a:hover,
+.social-icon-four li a:hover,
+.page-title .bread-crumb li,
+.page-title .bread-crumb li a:hover,
+.page-title .bread-crumb li a.current,
+.fullwidth-gallery .filters .filter.active,
+.fullwidth-gallery .filters .filter:hover,
+.price-column .inner-box .middle-box ul li a:hover,
+.sidebar .popular-posts .post a, .sidebar .popular-posts .post a:hover,
+.news-style-one .inner-box .lower-box .text blockquote:before,
+.list-style-one li:before,
+.comments-area .comment a.reply span,
+.comments-area .comment a.reply:hover,
+.time-countdown .counter-column .count,
+.gallery-section .gallery-column .owl-next:hover,
+.gallery-section .gallery-column .owl-prev:hover,
+.schedule-carousel-outer .slide-item .speaker .time{
+	color:#0074D9;
+}
+
+
+.main-menu .navigation > li > ul,
+.main-menu .navigation > li > ul > li > ul,
+.main-header .btn-outer .dropdown-menu,
+.main-header .search-panel input:focus,
+.main-header .search-panel select:focus,
+.main-header .nav-outer .btn-outer .buy-ticket-btn:hover,
+.btn-style-one,
+.btn-style-two:hover,
+.btn-style-three,
+.btn-style-three:hover,
+.ui-menu .ui-menu-item-wrapper:hover,
+.ui-menu .ui-menu-item-wrapper.ui-state-active,
+.btn-style-four:hover,
+.price-column .inner-box .buy-btn:hover,
+.sidebar .search-box .form-group input:focus,
+.sidebar .subscribe-widget .form-group input:focus,
+.news-style-one .inner-box .post-options .social-links li a:hover,
+.comment-form .form-group input[type="text"]:focus,
+.comment-form .form-group input[type="password"]:focus,
+.comment-form .form-group input[type="tel"]:focus,
+.comment-form .form-group input[type="email"]:focus,
+.comment-form .form-group select:focus,
+.comment-form .form-group textarea:focus,
+.contact-form input:focus,
+.contact-form select:focus,
+.contact-form textarea:focus{
+	border-color:#0074D9;
+}
+
+.main-menu .navigation > li > ul > li:hover > a,
+.main-menu .navigation > li > ul > li > ul > li:hover > a,
+.main-header .nav-outer .btn-outer .buy-ticket-btn:hover,
+.btn-style-one,
+.btn-style-two:hover,
+.sticky-header .main-menu .navigation > li:hover > a,
+.sticky-header .main-menu .navigation > li.current > a,
+.sticky-header .main-menu .navigation > li.current-menu-item > a,
+.scroll-to-top:hover,
+.btn-style-three:hover,
+.subscribe-section .subscribe-form .form-group input[type="submit"],
+.subscribe-section .subscribe-form button,
+.sec-title h2:before,
+.sec-title h2:after,
+.about-section-two .content-column .inner .about-title h2:after,
+.speaker-section .owl-nav .owl-prev:hover,
+.speaker-section .owl-nav .owl-next:hover,
+.ui-menu .ui-menu-item-wrapper:hover,
+.ui-menu .ui-menu-item-wrapper.ui-state-active,
+.price-column .inner-box .upper-box h2:before,
+.btn-style-four:hover,
+.styled-pagination li a:hover,
+.styled-pagination li a.active,
+.price-column .inner-box .buy-btn:hover,
+.sidebar-title h2:after,
+.sidebar .subscribe-widget .form-group button,
+.news-style-one .inner-box .post-options .social-links li a:hover,
+.contact-form-section .contact-title h2:before,
+.schedule-carousel-outer .days-outer .active .day{
+	background-color:#0074D9;
+}
+
+.video-box .overlay-box span,
+.gallery-item .inner-box .overlay-box,
+.schedule-carousel-outer .slide-item .speaker .image .speaker-image .over-link{
+	background-color:rgba(0,116,217,0.60);
+}
+
+.main-slider .btn-style-one:hover{
+	color:#0074D9 !important;
+}
+
+.main-slider .tp-bullets.preview3 .bullet{
+	border-color:#0074D9 !important;
+}
+
+@media only screen and (max-width: 767px){
+	
+	.main-menu .navbar-header .navbar-toggle{
+		border-color:#0074D9;
+	}
+	
+	.main-menu .navbar-header .navbar-toggle,
+	.main-menu .navbar-collapse > .navigation,
+	.main-menu .navbar-collapse > .navigation > li > ul,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul,
+	.main-menu .navbar-collapse > .navigation > li > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li > a,
+	.main-menu .navbar-collapse > .navigation > li > a:hover,
+	.main-menu .navbar-collapse > .navigation > li > a:active,
+	.main-menu .navbar-collapse > .navigation > li > a:focus,
+	.main-menu .navbar-collapse > .navigation > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li.current > a,
+	.main-menu .navbar-collapse > .navigation > li.current-menu-item > a{
+		background-color:#0074D9;
+	}
+	
+}
